@@ -9,9 +9,6 @@ class JulianSerra:
         self.languages = ["en_GB", "es_MX", "pt_BR"]
         self.interests = ["Laughing", "Entrepreneurship", "Software", "Crypto", "AI/ML", "Soccer", "Cycling", "Golf"]
 
-    def fun_fact(self):
-        return "I'm not just bilingual, I'm trilingual in human languages AND coding languages!"
-
     def get_website(self):
         return "https://julianserra.xyz"
 
