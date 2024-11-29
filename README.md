@@ -15,7 +15,8 @@ class JulianSerra:
     def get_experience(self):
         return {
             "Bitso": "Early, Product Manager & Software Engineer",
-            "Cover": "Founder (stopped)",
+            "Metzi": "Founder",
+            "miclabe.com": "Is this useful?"
         }
 
 julian = JulianSerra()
