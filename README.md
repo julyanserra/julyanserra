@@ -21,7 +21,7 @@ class JulianSerra:
 
 julian = JulianSerra()
 print(f"Welcome to {julian.name}'s GitHub!")
-print("Warning: May contain traces of AI, and startup energy (mostly AI).")
+print("Warning: May contain traces of AI (mostly AI).")
 ```
 
 <!--
